@@ -21,6 +21,11 @@ docker: Error response from daemon: failed to resolve reference "docker.io/avail
 
 <img width="1361" alt="Screenshot 2024-10-29 at 1 44 24 AM" src="https://github.com/user-attachments/assets/166b2fad-d78c-4c11-a026-9e277ffc54bd">
 
+## Screenshot of Docker Pull Error for availj/avail:v2.2.4.1 Image Locally
+
+ ![WhatsApp Image 2024-10-30 at 23 23 20](https://github.com/user-attachments/assets/9f90bf30-9b20-4b3a-9757-94b79a776eed)
+
+
 ## Suggested Improvement
 1. **Confirm Image Availability**: Ensure that `availj/avail:2.2.4.1` is publicly available on Docker Hub or provide an alternative link or tag in the documentation.
 2. **Add Troubleshooting Instructions**: If this image requires specific credentials or access permissions, consider adding a troubleshooting section that covers:
