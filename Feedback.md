@@ -4,7 +4,7 @@
 - **Section**: [Running a Full Node](https://docs.availproject.org/docs/operate-a-node/run-a-full-node/full-node)
 
 ## Feedback Summary
-When attempting to run an Avail node using Docker as per the documentation, the provided command does not successfully locate or pull the Docker image `availj/avail:2.2.4.1`.
+The feedback highlights a potential issue with setting up and running a full Avail node using Docker. It addresses the challenge users may face when the documentation-provided Docker command fails to locate the specified Docker image (availj/avail:2.2.4.1). This feedback aims to improve the onboarding experience by ensuring that all necessary information is accessible, making it easier for developers to get started with the Avail node setup without dealing with unexpected setup issues.`availj/avail:2.2.4.1`.
 
 ## Issue Description
 Upon running the command:
